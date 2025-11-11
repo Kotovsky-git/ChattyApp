@@ -28,7 +28,6 @@ I'm translating the README.md to english ;)
 
 ## Instalation
 
----
 #### Windows (Using Installer)
 1. Go to releases and download "Setup-x86-win.exe".
 2. Run "Setup-x86-win.exe" and basicly install it.
