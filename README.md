@@ -1,7 +1,8 @@
 # ChattyApp 🐱💬
 
-ChattyApp to prosty klient do Twojego czatu Chatty (PHP/MySQL), stworzony w Pythonie z użyciem PyQt5 i PyQtWebEngine.  
+ChattyApp to prosty klient do Twojego czatu [Chatty](https://chatty.ct.ws/) (PHP/MySQL), stworzony w Pythonie z użyciem PyQt5 i PyQtWebEngine.  
 Pozwala uruchomić stronę czatu w osobnej aplikacji desktopowej.
+Repozytorium Chatty: [Kliknij Tutaj](https://github.com/Kotovsky-git/Chatty)
 
 ---
 
